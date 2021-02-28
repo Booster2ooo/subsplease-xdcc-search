@@ -1,0 +1,1 @@
+{"version":3,"file":"subsplease-xdcc-result.d.ts","sourceRoot":"","sources":["../../../src/lib/subsplease-xdcc-result.ts"],"names":[],"mappings":"AAAA,qBAAa,oBAAoB;IAE/B,OAAO,EAAE,MAAM,GAAC,IAAI,GAAC,SAAS,CAAC;IAC/B,MAAM,EAAE,MAAM,GAAC,IAAI,GAAC,SAAS,CAAC;IAC9B,QAAQ,EAAE,MAAM,GAAC,IAAI,GAAC,SAAS,CAAC;IAChC,QAAQ,EAAE,MAAM,GAAC,IAAI,GAAC,SAAS,CAAC;gBAEpB,MAAM,CAAC,EAAE,GAAG;CASzB"}

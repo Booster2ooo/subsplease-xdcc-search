@@ -1,0 +1,7 @@
+{
+	"out": "doc/",
+	"exclude": [
+		"**/subsplease-cache.ts",
+		"**/subsplease-http-client.ts"
+	]
+}
